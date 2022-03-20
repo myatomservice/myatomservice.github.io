@@ -1,8 +1,12 @@
-## Welcome to GitHub Pages
+## Atom VPN Home page
 
-You can use the [editor on GitHub](https://github.com/myatomservice/myatomservice.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+The official release of Atom VPN is [Google Play](https://play.google.com/store/apps/details?id=net.atomservice.vp), you can download or install atom VPN for free.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+If you have any question, you can contact us via the email in the Google Play page.
+
+
+
 
 ### Markdown
 
