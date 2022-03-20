@@ -1,0 +1,2 @@
+Atom app will not collect any personal information, such as you name, gendar, address, ect.
+Atom app can run without any anndroid permission except network.
